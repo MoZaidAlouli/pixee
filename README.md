@@ -14,21 +14,21 @@
 
 ### macOS / Linux
 ```bash
-git clone https://github.com/yourusername/pixelpal.git
+git clone https://github.com/MoZaidAlouli/pixelpal.git
 cd pixelpal
 chmod +x setup.sh && ./setup.sh
 ```
 
 ### Windows
 ```bat
-git clone https://github.com/yourusername/pixelpal.git
+git clone https://github.com/MoZaidAlouli/pixelpal.git
 cd pixelpal
 setup.bat
 ```
 
 ### Any platform (if you have Node.js)
 ```bash
-git clone https://github.com/yourusername/pixelpal.git
+git clone https://github.com/MoZaidAlouli/pixelpal.git
 cd pixelpal
 node setup.js
 ```
