@@ -15,21 +15,21 @@
 ### macOS / Linux
 ```bash
 git clone https://github.com/MoZaidAlouli/pixee.git
-cd pixelpal
+cd pixee
 chmod +x setup.sh && ./setup.sh
 ```
 
 ### Windows
 ```bat
 git clone https://github.com/MoZaidAlouli/pixee.git
-cd pixelpal
+cd pixee
 setup.bat
 ```
 
 ### Any platform (if you have Node.js)
 ```bash
 git clone https://github.com/MoZaidAlouli/pixee.git
-cd pixelpal
+cd pixee
 node setup.js
 ```
 
